@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 namespace SGHParetoFrontier
 {
     public class Class1
-    {
+    {   
+
+
     }
 }
