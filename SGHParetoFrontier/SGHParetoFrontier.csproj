@@ -45,8 +45,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="sParetoDataItem.cs" />
-    <Compile Include="sParetoDataSet.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="sParetoDataSet.cs" />
     <Compile Include="sParetoFrontierHandler.cs" />
     <Compile Include="sParetoParameterSet.cs" />
   </ItemGroup>
